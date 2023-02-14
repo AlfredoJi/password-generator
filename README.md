@@ -10,7 +10,7 @@ how to work with functions in Javascript and using if and for loops in them.
 ## Installation
 
 The project is a website so no steps required to install. Get to website by 
-clicking this URL:     
+clicking this URL: https://alfredoji.github.io/password-generator/    
 
 ## Usage
 
